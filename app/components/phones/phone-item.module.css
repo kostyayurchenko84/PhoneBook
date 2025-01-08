@@ -1,0 +1,4 @@
+.oneline {
+    white-space: nowrap;
+    width: 1%; /* Форсирует сужение ячейки */
+  }
