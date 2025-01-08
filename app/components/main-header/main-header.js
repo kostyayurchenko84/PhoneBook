@@ -3,7 +3,7 @@ import classes from './main-header.module.css';
 import Link from 'next/link';
 import Image from 'next/image';
 import MainHeaderBackground from './main-header-background';
-/**/
+
 export default function MainHeader() {
     return (
         <>
